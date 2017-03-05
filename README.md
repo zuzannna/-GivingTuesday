@@ -15,4 +15,4 @@ Deliverable is the code and the following map, which can be accessed at: https:/
 ![map_image](map_image.png)
 
 **Insights:**
-Interestingly, when we look at adjusted donation amounts we see that big cities no longer dominate the giving drive. For example, there are ZIP codes areas in south Texas or Utah which donate as much or more than urbanized centers on the West and East Coast.
+Interestingly, when we look at adjusted donation amounts we see that big cities no longer dominate the giving drive. For example, there are ZIP codes areas in south Texas, Utah, Montana and Idaho which donate as much or more than urbanized centers on the West and East Coast.
