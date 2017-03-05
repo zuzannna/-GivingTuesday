@@ -2,11 +2,11 @@
 
 Code created during the DataKind #GivingTuesday event on 3/4/2017 as a part of the Transactions team.
 
-purpose: provide a map of small donors normalized by the income to direct marketing campaign more efficiently, especially outside of big cities.
+**purpose:** provide a map of small donors normalized by the income to direct marketing campaign more efficiently, especially outside of big cities.
 
-data: I used a subset of transactions data narrowed down to 2016 by executing "cat donations_post_gt.csv | grep 2016 >> donations_post_gt_2016.csv" in the Terminal. 
+**data:** I used a subset of transactions data narrowed down to 2016 by executing "cat donations_post_gt.csv | grep 2016 >> donations_post_gt_2016.csv" in the Terminal. 
 
-tools: numpy, seaborn, pandas, GeoPandas
+**tools:** numpy, seaborn, pandas, GeoPandas
 
 
 When analyzing the individual donations in the context of the whole country it is important to look at the normalized values. This is why I created the code using the following normalization method:
