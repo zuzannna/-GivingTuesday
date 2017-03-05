@@ -13,3 +13,6 @@ I did it only for donations of less than 200 USD to sift out large donors (one o
 Deliverable is the code and the following map, which can be accessed at: https://zuzanna.carto.com/viz/999bdc1a-01c1-11e7-9bf4-0e3ff518bd15/map.  
 
 ![map_image](map_image.png)
+
+**Insights:**
+Interestingly, when we look at adjusted donation amounts we see that big cities no longer dominate the giving drive. For example, there are ZIP codes areas in south Texas or Utah which donate as much or more than urbanized centers on the West and East Coast.
