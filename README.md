@@ -1,8 +1,8 @@
 #Giving Tuesday DataKind Dive
 
-*Transaction-level data can give us consumer insights into giving patterns and giving motivations.  It can  provide insights to organizations seeking funds and help create measures of giving - such as an increase in amount or people giving by day or by year.*  
+**Transaction-level data can give us consumer insights into giving patterns and giving motivations.  It can  provide insights to organizations seeking funds and help create measures of giving - such as an increase in amount or people giving by day or by year.**  
 
-I dove into donation transaction records provided by big companies such as *Paypal* and combined them with *US census data* (freely available) and *ZIP code shapefiles* (geospatial representation of ZIP codes) to create an interactive map of individual donors who contributed less than $200.
+I dove into donation transaction records provided by big companies such as **Paypal** and combined them with **US census data** (freely available) and **ZIP code shapefiles** (geospatial representation of ZIP codes) to create an interactive map of individual donors who contributed less than $200.
 
 When analyzing individual donations in the context of the whole country it is important to look at the normalized values - adjusted by the median income in the area. This way by visual inspection of the map it is possible to identify the areas which are more likely to donate significant portions of their income. 
 
