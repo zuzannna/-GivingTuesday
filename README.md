@@ -1,8 +1,5 @@
 # Giving Tuesday DataKind Dive
 
-Code created during the DataKind #GivingTuesday event on 3/4/2017 as a part of the Transactions team.
-
-# Overview
 Transaction-level data can give us consumer insights into giving patterns and giving motivations.  It can  provide insights to organizations seeking funds and help create measures of giving - such as an increase in amount or people giving by day or by year.  
 When analyzing the individual donations in the context of the whole country it is important to look at the normalized values. This is why I created the code using the following normalization method:
 
